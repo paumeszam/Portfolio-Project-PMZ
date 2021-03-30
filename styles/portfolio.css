@@ -58,12 +58,12 @@ a:hover {
 }
 
 .btn-contact {
-  background: var(--light-primary-color);
+  border: 1px solid var(--primary-text);
   border-radius: 4px;
   color: var(--primary-text);
   font-family: var(--heading-font-family);
   font-size: 18px;
-  padding: 15px 40px;
+  padding: 10px 20px;
   margin: 20px;
 }
 
@@ -97,7 +97,11 @@ a:hover {
   }
 
   .btn-contact {
-    padding: 5px 30px;
-    margin: 15px;
+    padding: 5px 15px;
+    margin: 10px;
+  }
+
+  .about-faves-link {
+    font-size: 12px;
   }
 }
