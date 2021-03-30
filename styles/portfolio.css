@@ -67,6 +67,10 @@ a:hover {
   margin: 20px;
 }
 
+.about-content {
+  text-align: center;
+}
+
 .instagram-icon {
   color: var(--dark-primary-color);
   font-size: 30px;
