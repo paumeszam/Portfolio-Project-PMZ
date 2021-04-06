@@ -108,7 +108,8 @@ li {
   }
 
   p,
-  a {
+  a,
+  li {
     font-size: 14px;
   }
 
