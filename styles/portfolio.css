@@ -103,7 +103,8 @@ li {
     font-size: 17px;
   }
 
-  h3 {
+  h3,
+  .recipe-name {
     font-size: 24px;
   }
 
