@@ -50,6 +50,11 @@ a:hover {
   color: var(--dark-primary-color);
 }
 
+li {
+  font-size: 18px;
+  list-style-type: none;
+}
+
 .hero {
   background: var(--primary-color);
   margin-bottom: 20px;
@@ -77,6 +82,15 @@ a:hover {
   color: var(--dark-primary-color);
   font-size: 24px;
   margin-left: 10px;
+}
+
+.recipe-name {
+  font-size: 30px;
+}
+
+.step {
+  color: var(--dark-primary-color);
+  font-weight: bold;
 }
 
 @media (max-width: 576px) {
