@@ -55,6 +55,18 @@ li {
   list-style-type: none;
 }
 
+.logo {
+  max-height: 80px;
+}
+
+.active {
+  color: var(--dark-primary-color) !important;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
 .hero {
   background: var(--primary-color);
   margin-bottom: 20px;
